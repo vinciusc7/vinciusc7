@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como analista/desenvolvedor de sistemas
 - 🌱 Me especializando em C# | .Net Core | .Net Framework | Entity Framework (EF) Core | API Rest | Micro serviços
-- 💬 Contate-me. e-mail: vinciusc7@gmail.com 📨| cell: (11)9 9566-4503 📲
+- 💬 Contate-me: (11)9 9566-4503 📲
 
 <div style="display: inline_block"><br>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
