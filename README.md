@@ -1,8 +1,8 @@
 ## Olá, eu sou o Vinicius Chaves ✌
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- 🔭 Atualmente trabalho como analista/desenvolvedor de sistemas
-- 🌱 Me especializando em C# | .Net Core | .Net Framework | Entity Framework (EF) Core | API Rest | Micro serviços
+- 🔭 Atualmente trabalho como Desenvolvedor backend
+- 🌱 Especialista em Desenvolvimento .Net | Desenvolvimento full stack | Angular
 - 💬 Contate-me: (11)9 9566-4503 📲
 
 <div style="display: inline_block"><br>
