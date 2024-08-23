@@ -15,7 +15,7 @@
   <img align="center" alt="Vini-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png">
-  <img align="center" alt="Vini-Angular" height="40" width="50" src="[https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png)">
+  <img align="center" alt="Vini-Angular" height="40" width="50" src="![image](https://github.com/user-attachments/assets/5c22b8b0-c252-4a04-8cf9-4b3d5af4b5f6)">
   <img align="center" alt="Vini-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/04/14232157/capa-produtividade.png">
 </div>
